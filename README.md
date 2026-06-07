@@ -17,3 +17,15 @@ Interactive Streamlit web application
 Fast recommendation generation
 Clean and user-friendly interface
 Uses movie metadata for similarity calculation
+
+---
+
+🛠️ Tech Stack
+---
+Python
+Streamlit
+Pandas
+NumPy
+Scikit-Learn
+NLTK
+Pickle
