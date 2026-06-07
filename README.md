@@ -29,3 +29,19 @@ NumPy
 Scikit-Learn
 NLTK
 Pickle
+
+---
+
+
+## 📂 Project Structure
+
+```text
+movie-recommendation-system/
+│
+├── app.py
+├── movies.pkl
+├── similarity.pkl
+├── requirements.txt
+├── README.md
+└── datasets/
+```
