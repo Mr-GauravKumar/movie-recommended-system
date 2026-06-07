@@ -45,3 +45,13 @@ movie-recommendation-system/
 ├── README.md
 └── datasets/
 ```
+
+---
+
+## ⚙️ How It Works
+---
+1. Movie data is collected and preprocessed.
+2. Important features such as genres, cast, crew, keywords, and overview are combined.
+3. Text data is vectorized using CountVectorizer.
+4. Cosine similarity is calculated between movies.
+5. When a user selects a movie, the system finds and displays the most similar movies.
