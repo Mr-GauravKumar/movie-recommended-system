@@ -55,3 +55,79 @@ movie-recommendation-system/
 3. Text data is vectorized using CountVectorizer.
 4. Cosine similarity is calculated between movies.
 5. When a user selects a movie, the system finds and displays the most similar movies.
+
+
+## 🔧 Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/movie-recommendation-system.git
+cd movie-recommendation-system
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Activate Environment
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**Mac/Linux**
+
+```bash
+source venv/bin/activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ Run the Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser automatically.
+
+## 📊 Machine Learning Approach
+
+* Data Preprocessing
+* Feature Engineering
+* Text Vectorization using CountVectorizer
+* Cosine Similarity Calculation
+* Recommendation Generation
+
+## 🎯 Future Improvements
+
+* Hybrid Recommendation System
+* User Authentication
+* Personalized Recommendations
+* Movie Posters and Details Integration
+* Collaborative Filtering
+* Deployment on Cloud Platforms
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author:
+
+Gaurav kumar 
+gauravkr.pro@gmail.com
+
+Developed with Python and Machine Learning for movie recommendation and discovery.
