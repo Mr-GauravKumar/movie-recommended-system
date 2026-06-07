@@ -127,7 +127,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author:
 
-Gaurav kumar  |   
-gauravkr.pro@gmail.com
+Gaurav kumar  |   gauravkr.pro@gmail.com
 
 Developed with Python and Machine Learning for movie recommendation and discovery.
