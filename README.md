@@ -1,37 +1,46 @@
 # movie-recommended-system
 A content-based Movie Recommendation System built with Python, Streamlit, and Machine Learning. It recommends similar movies based on genres, keywords, cast, crew, and movie metadata using vectorization techniques, helping users discover movies they are likely to enjoy.
-
-----
-
-🎬 Movie Recommendation System
 ---
+
+# 🎬 Movie Recommendation System
+
 A content-based Movie Recommendation System that suggests movies similar to the one selected by the user. The project uses machine learning and natural language processing techniques to analyze movie metadata such as genres, keywords, cast, crew, and overview to generate accurate recommendations.
 
----
+<img width="1896" height="774" alt="image" src="https://github.com/user-attachments/assets/2171a7dc-bc7c-4d28-bd88-5eb04d68852b" />
 
-🚀 Features
----
-Recommend movies similar to a selected movie
-Content-based filtering approach
-Interactive Streamlit web application
-Fast recommendation generation
-Clean and user-friendly interface
-Uses movie metadata for similarity calculation
 
----
+## 🚀 Features
 
-🛠️ Tech Stack
----
-Python
-Streamlit
-Pandas
-NumPy
-Scikit-Learn
-NLTK
-Pickle
+* Recommend movies similar to a selected movie
+* Content-based filtering approach
+* Interactive Streamlit web application
+* Fast recommendation generation
+* Clean and user-friendly interface
+* Uses movie metadata for similarity calculation
+
+<img width="1891" height="788" alt="image" src="https://github.com/user-attachments/assets/f4b11c04-fe6d-42a7-bf24-f7d70589f59e" />
+
 
 ---
 
+### 🎥 Movie Details & Insights
+
+For every recommended movie, users can explore detailed information including the movie overview, rating, genres, release date, and runtime. The application also displays the top cast members and provides a direct trailer link, allowing users to learn more about the movie before deciding what to watch.
+
+
+<img width="1865" height="813" alt="image" src="https://github.com/user-attachments/assets/2645f148-d53d-41f9-88dc-fa851d103826" />
+
+
+
+## 🛠️ Tech Stack
+
+* Python
+* Streamlit
+* Pandas
+* NumPy
+* Scikit-Learn
+* NLTK
+* Pickle
 
 ## 📂 Project Structure
 
@@ -46,16 +55,13 @@ movie-recommendation-system/
 └── datasets/
 ```
 
----
-
 ## ⚙️ How It Works
----
+
 1. Movie data is collected and preprocessed.
 2. Important features such as genres, cast, crew, keywords, and overview are combined.
 3. Text data is vectorized using CountVectorizer.
 4. Cosine similarity is calculated between movies.
 5. When a user selects a movie, the system finds and displays the most similar movies.
-
 
 ## 🔧 Installation
 
@@ -119,14 +125,14 @@ The application will open in your browser automatically.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome.
+Contributions, issues and feature requests are welcome.
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author:
+## 👨‍💻 Author
 
-Gaurav kumar  |   gauravkr.pro@gmail.com
+Gaurav Kumar ||  gauravkr.pro@gmail.com
 
-Developed with Python and Machine Learning for movie recommendation and discovery.
+
